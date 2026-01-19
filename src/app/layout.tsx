@@ -34,6 +34,10 @@ export default function RootLayout({
           <Navbar />
           <main>{children}</main>
         </Providers>
+        <footer className="w-full text-center py-3 text-sm text-gray-500 border-t">
+  Student ID: 67162110094-1
+</footer>
+
       </body>
     </html>
   );
