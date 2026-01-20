@@ -116,6 +116,7 @@ export function AuthForm({ type }: AuthFormProps) {
                                 value={password}
                                 onChange={(e) => setPassword(e.target.value)}
                                 required
+                                placeholder='123456'
                             />
                         </div>
                     </div>

@@ -35,7 +35,7 @@ export default function RootLayout({
           <main>{children}</main>
         </Providers>
         <footer className="w-full text-center py-3 text-sm text-gray-500 border-t">
-  Student ID: 67162110094-1
+  Student ID: 67162110094-1 email: test01@gmail.com password: 123456
 </footer>
 
       </body>
